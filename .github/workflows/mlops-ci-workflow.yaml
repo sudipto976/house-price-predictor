@@ -75,5 +75,3 @@ jobs:
           tags: sudiptogitdoc/fastapi:${{ github.sha }}
           context: "."
           file: "Dockerfile"
-
-      
